@@ -97,6 +97,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
 
 ## 📚  Resources 
+* [A compilation of useful git commands and git resources](https://www.notion.so/shubhlohiya/Version-Control-with-Git-51504dd7484e446aa5f5a50b757a29b4)
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
 * [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
 * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
