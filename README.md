@@ -1,3 +1,11 @@
+# Problem Statement
+
+* The main problem statement of each assignment is available at ```https://github.com/LS-Computer-Vision/{repo-name}```. For example, this starter assignment is available at  ```https://github.com/LS-Computer-Vision/github-starter-course```. Your goal is to write a script (```.sh``` or ```.bat``` or any scripting language you like) that synchronizes your repository with the main assignment repository. The basic steps this script will execute is
+  * Add another remote to your local repository, with the upstream ```https://github.com/LS-Computer-Vision/{repo-name}```
+  * Fetch changes from the new remote
+  * Merge changes manually if required
+* Execute this script for this starter assignment.
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
@@ -106,11 +114,3 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
-
-# Problem Statement
-
-* The main problem statement of each assignment is available at ```https://github.com/LS-Computer-Vision/{repo-name}```. For example, this starter assignment is available at  ```https://github.com/LS-Computer-Vision/github-starter-course```. Your goal is to write a script (```.sh``` or ```.bat``` or any scripting language you like) that synchronizes your repository with the main assignment repository. The basic steps this script will execute is
-  * Add another remote to your local repository, with the upstream ```https://github.com/LS-Computer-Vision/{repo-name}```
-  * Fetch changes from the new remote
-  * Merge changes manually if required
-* Execute this script for this starter assignment.
